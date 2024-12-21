@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "web_api.Controllers.UserController",
+    "Method": "LoginAsync",
+    "RelativePath": "User/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "web_api.Model.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "web_api.Controllers.UserController",
+    "Method": "GetNameAsync",
+    "RelativePath": "User/name",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

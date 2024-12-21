@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\fusion-cache-auth\\back-end\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4516CADF-B3B6-491F-9DA4-BF926F058522}|web-api\\web-api.csproj|c:\\projetos\\fusion-cache-auth\\back-end\\web-api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4516CADF-B3B6-491F-9DA4-BF926F058522}|web-api\\web-api.csproj|solutionrelative:web-api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4516CADF-B3B6-491F-9DA4-BF926F058522}|web-api\\web-api.csproj|c:\\projetos\\fusion-cache-auth\\back-end\\web-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4516CADF-B3B6-491F-9DA4-BF926F058522}|web-api\\web-api.csproj|solutionrelative:web-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4516CADF-B3B6-491F-9DA4-BF926F058522}|web-api\\web-api.csproj|c:\\projetos\\fusion-cache-auth\\back-end\\web-api\\model\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4516CADF-B3B6-491F-9DA4-BF926F058522}|web-api\\web-api.csproj|solutionrelative:web-api\\model\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4516CADF-B3B6-491F-9DA4-BF926F058522}|web-api\\web-api.csproj|c:\\projetos\\fusion-cache-auth\\back-end\\web-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4516CADF-B3B6-491F-9DA4-BF926F058522}|web-api\\web-api.csproj|solutionrelative:web-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4516CADF-B3B6-491F-9DA4-BF926F058522}|web-api\\web-api.csproj|c:\\projetos\\fusion-cache-auth\\back-end\\web-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4516CADF-B3B6-491F-9DA4-BF926F058522}|web-api\\web-api.csproj|solutionrelative:web-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4516CADF-B3B6-491F-9DA4-BF926F058522}|web-api\\web-api.csproj|c:\\projetos\\fusion-cache-auth\\back-end\\web-api\\services\\sessionidauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4516CADF-B3B6-491F-9DA4-BF926F058522}|web-api\\web-api.csproj|solutionrelative:web-api\\services\\sessionidauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4516CADF-B3B6-491F-9DA4-BF926F058522}|web-api\\web-api.csproj|c:\\projetos\\fusion-cache-auth\\back-end\\web-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4516CADF-B3B6-491F-9DA4-BF926F058522}|web-api\\web-api.csproj|solutionrelative:web-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4516CADF-B3B6-491F-9DA4-BF926F058522}|web-api\\web-api.csproj|c:\\projetos\\fusion-cache-auth\\back-end\\web-api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4516CADF-B3B6-491F-9DA4-BF926F058522}|web-api\\web-api.csproj|solutionrelative:web-api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4516CADF-B3B6-491F-9DA4-BF926F058522}|web-api\\web-api.csproj|c:\\projetos\\fusion-cache-auth\\back-end\\web-api\\web-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4516CADF-B3B6-491F-9DA4-BF926F058522}|web-api\\web-api.csproj|solutionrelative:web-api\\web-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionIdAuthenticationHandler.cs",
+              "DocumentMoniker": "C:\\Projetos\\fusion-cache-auth\\back-end\\web-api\\Services\\SessionIdAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "web-api\\Services\\SessionIdAuthenticationHandler.cs",
+              "ToolTip": "C:\\Projetos\\fusion-cache-auth\\back-end\\web-api\\Services\\SessionIdAuthenticationHandler.cs",
+              "RelativeToolTip": "web-api\\Services\\SessionIdAuthenticationHandler.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:08:26.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Projetos\\fusion-cache-auth\\back-end\\web-api\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "web-api\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Projetos\\fusion-cache-auth\\back-end\\web-api\\Services\\TokenService.cs",
+              "RelativeToolTip": "web-api\\Services\\TokenService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAnwDIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:25:37.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Projetos\\fusion-cache-auth\\back-end\\web-api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "web-api\\WeatherForecast.cs",
+              "ToolTip": "C:\\Projetos\\fusion-cache-auth\\back-end\\web-api\\WeatherForecast.cs",
+              "RelativeToolTip": "web-api\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:22:10.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\fusion-cache-auth\\back-end\\web-api\\Program.cs",
+              "RelativeDocumentMoniker": "web-api\\Program.cs",
+              "ToolTip": "C:\\Projetos\\fusion-cache-auth\\back-end\\web-api\\Program.cs",
+              "RelativeToolTip": "web-api\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:19:40.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Projetos\\fusion-cache-auth\\back-end\\web-api\\Model\\Token.cs",
+              "RelativeDocumentMoniker": "web-api\\Model\\Token.cs",
+              "ToolTip": "C:\\Projetos\\fusion-cache-auth\\back-end\\web-api\\Model\\Token.cs",
+              "RelativeToolTip": "web-api\\Model\\Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:15:45.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Projetos\\fusion-cache-auth\\back-end\\web-api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "web-api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Projetos\\fusion-cache-auth\\back-end\\web-api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "web-api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:12:59.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\fusion-cache-auth\\back-end\\web-api\\appsettings.json",
+              "RelativeDocumentMoniker": "web-api\\appsettings.json",
+              "ToolTip": "C:\\Projetos\\fusion-cache-auth\\back-end\\web-api\\appsettings.json",
+              "RelativeToolTip": "web-api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-20T16:13:30.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projetos\\fusion-cache-auth\\back-end\\web-api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "web-api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projetos\\fusion-cache-auth\\back-end\\web-api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "web-api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-20T16:13:35.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "web-api.http",
+              "DocumentMoniker": "C:\\Projetos\\fusion-cache-auth\\back-end\\web-api\\web-api.http",
+              "RelativeDocumentMoniker": "web-api\\web-api.http",
+              "ToolTip": "C:\\Projetos\\fusion-cache-auth\\back-end\\web-api\\web-api.http",
+              "RelativeToolTip": "web-api\\web-api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-20T16:13:14.715Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
